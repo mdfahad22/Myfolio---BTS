@@ -1,0 +1,172 @@
+/* nav---bts--start */
+
+
+@media (min-width:320px) and (max-width:992px) {
+  
+  nav.myNav ul li a {
+
+    padding: 16px 25px !important;
+    
+}
+
+}
+
+@media (min-width:320px) and (max-width:575px) {
+  
+  nav.myNav ul li a {
+
+  text-align: center;
+    
+}
+
+}
+
+
+/* nav--bts---endss */
+
+
+/* banner--bts--start */
+
+@media (min-width:768px) and (max-width:992px) {
+  
+#banner{
+  height: 500px;
+}
+
+#banner .row{
+  height: 500px;
+}
+
+.banner-ct h1{
+
+  letter-spacing: 15px;
+font-size: 40px;
+  }
+
+
+.banner-ct a{
+  
+    width: 155px;
+    height: 42px;
+    line-height: 42px;
+       font-size: 16px;
+  }
+   
+
+}
+
+
+@media (min-width:320px) and (max-width:767px) {
+  
+  #banner{
+    height: 400px;
+    background-size: cover;
+  }
+  
+  #banner .row{
+    height: 400px;
+  }
+  
+  .banner-ct h1{
+  
+    letter-spacing: 10px;
+    font-size: 35px;
+  
+    }
+  
+    .banner-ct h2{
+  
+      font-weight: 400;
+      font-size: 25px;
+    }
+
+  
+.banner-ct a{
+  
+ width: 150px;
+ height: 40px;
+ line-height: 40px;
+    font-size: 15px;
+    }
+
+
+  }
+
+
+/* banner--btss--endss */
+
+
+
+/* about--bts--endss */
+
+
+  @media (min-width:320px) and (max-width:992px) {
+  
+#about{
+  padding: 50px;
+}
+
+#about .heading{
+font-size: 33px;
+}
+
+
+.heading::before{
+  bottom: -25px;
+  }
+
+
+    #about .aboutCard{
+  
+    border-right:  none ;
+   
+    }
+  
+    #about p{
+     margin-top: 45px;
+      margin-bottom: 25px;
+    padding: 0 12px;
+    }
+
+    #about p span{
+
+      font-weight: 800;
+      font-size:18px;
+    
+    }
+
+  }
+
+
+/* about--btss--endss */
+
+
+
+/* service--btsss--startt */
+
+
+@media (min-width:320px) and (max-width:768px) {
+  
+#services{
+padding-left: 30px;
+padding-top: 55px;
+padding-bottom: 55px;
+}
+
+#services .service-left{
+
+  width: 45%;
+
+}
+
+#services h2{
+  font-size: 33px;
+}
+
+#services p{
+  margin: 52px 0;
+}
+
+}
+
+/* service---btssss----endss */
